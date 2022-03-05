@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MovieRef</string>
+
+    <string name="bottom_home_item">Accueil</string>
+    <string name="bottom_collection_item">Collection</string>
+    <string name="bottom_connection_item">Connexion</string>
+
+
+    <!-- PAGE D'ACCUEIL -->
+    <string name="home_page_title">A découvrir</string>
+    <string name="home_page_last_movie_section">Dernières sorties</string>
+    <string name="home_page_movie_name">Nom du film</string>
+    <string name="home_page_movie_description">Description du film</string>
+
+    <!-- PAGE DE COLLECTION -->
+    <string name="collection_page_title">Les Films Populaires</string>
+
+    <!-- PAGE AJOUT MOVIE -->
+    <string name="connexion_page_title">Connectez-vous à votre compte</string>
+    <string name="add_movie_page_upload_button">Charger une image</string>
+    <string name="add_movie_page_name_input">@string/item_movie_name</string>
+    <string name="add_movie_page_description_input">@string/item_movie_description</string>
+
+    <!-- FENETRE POPUP DETAILS -->
+    <string name="popup_movie_name">Nom du film</string>
+    <string name="popup_movie_description_title">Description</string>
+    <string name="popup_movie_description_subtitle">Petite description</string>
+    <string name="popup_movie_description_time">Durée du film</string>
+    <string name="popup_movie_subtitle_time">1h45min</string>
+    <string name="popup_movie_synopsis_title">Synopsis</string>
+    <string name="popup_movie_synopsis_subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut blandit nisi. Quisque in dignissim dolor. Nunc vitae tristique nulla, eu tincidunt turpis. Suspendisse tempor semper tempor. Duis neque sapien, fermentum at ultricies a, viverra at dui. Sed auctor rutrum lacinia. Vestibulum feugiat turpis ut nibh tincidunt iaculis.</string>
+
+    <!-- MOVIE CUSTOMISE -->
+    <string name="item_movie_name">Nom du film</string>
+    <string name="item_movie_description">Description du film</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
